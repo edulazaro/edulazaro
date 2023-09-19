@@ -1,6 +1,4 @@
-# Hi, I'm Edu 👋
-
-## I'm a passionate Spanish full stack engineer
+# Hi, I'm Edu, a passionate Spanish full stack engineer 👋
 
 I work at [H&C](https://horseandcountry.tv/) and create tutorials at [Neoguias](https://www.neoguias.com/).
 
