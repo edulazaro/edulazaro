@@ -1,4 +1,4 @@
-# Hi, I'm Edu, a passionate full stack engineer 👋
+# Hi, I'm Edu, a full stack engineer 👋
 
 I work at [H&C](https://horseandcountry.tv/) and create tutorials at [Neoguias](https://www.neoguias.com/).
 
