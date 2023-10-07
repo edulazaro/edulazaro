@@ -8,6 +8,7 @@ I have also developed these projects:
 
 - [SCIWP](https://sciwp.com/): A MVC framwork for WordPress ([repo](https://github.com/sciwp)).
 - [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games.
+- [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
 - [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 - [Neoguias](https://www.neoguias.com/): My tutorials about full stack development, databases, Web3, systems and engineering ([repos](https://github.com/neoguias)).
 - [Tutorial Markdown](https://tutorialmarkdown.com/): The best markdown tutorial in Spanish.
