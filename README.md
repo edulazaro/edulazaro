@@ -12,7 +12,9 @@ I have also developed these projects:
 - [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 - [Neoguias](https://www.neoguias.com/): My tutorials about full stack development, databases, Web3, systems and engineering ([repos](https://github.com/neoguias)).
 - [Tutorial Markdown](https://tutorialmarkdown.com/): The best markdown tutorial in Spanish.
-- [Forostack](https://forostack.com/): Coming soon 👀.
+- ByBit PHP SDK: Coming soon 👀.
+- Forostack: Coming soon 👀.
+- Swarmain: Coming soon 👀.
 
 You can find more about me on [my website](https://edulazaro.com).
 
