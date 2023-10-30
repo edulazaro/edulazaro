@@ -15,6 +15,7 @@ I have also developed these projects:
 - ByBit PHP SDK: Coming soon 👀.
 - Forostack: Coming soon 👀.
 - Swarmain: Coming soon 👀.
+- InverBunny 🐰
 
 You can find more about me on [my website](https://edulazaro.com).
 
