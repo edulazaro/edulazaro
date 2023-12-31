@@ -12,9 +12,11 @@ I have also developed these projects:
 - [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 - [Neoguias](https://www.neoguias.com/): My tutorials about full stack development, databases, Web3, systems and engineering ([repos](https://github.com/neoguias)).
 - [Tutorial Markdown](https://tutorialmarkdown.com/): The best markdown tutorial in Spanish.
-- ByBit PHP SDK: Coming soon 10% 🔨.
-- Forostack: Coming soon 30% 🔨.
-- Swarmain: Coming soon 15% 🔨.
+- ByBit PHP SDK: Coming soon 10% 🔨
+- Forostack: Coming soon 40% 🔨
+- Swarmain: Coming soon 18% 🔨
+- Comment Deck: Coming soon 5% 🔨
+- ToxicFilter: Coming soon 3% 🔨
 - InverBunny 40% 🔨
 
 You can find more about me on [my website](https://edulazaro.com).
@@ -23,4 +25,3 @@ You can find more about me on [my website](https://edulazaro.com).
 
 <a href="https://github.com/edulazaro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/neeonez" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/edulazaro/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
