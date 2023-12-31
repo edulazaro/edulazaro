@@ -17,6 +17,7 @@ I have also developed these projects:
 - Swarmain: Coming soon 18% 🔨
 - Comment Deck: Coming soon 5% 🔨
 - ToxicFilter: Coming soon 3% 🔨
+- SCIWP 2: Coming soon 35% 🔨
 - InverBunny 40% 🔨
 
 You can find more about me on [my website](https://edulazaro.com).
