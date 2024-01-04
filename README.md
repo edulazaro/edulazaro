@@ -19,7 +19,7 @@ I have also developed these projects:
 - 🔨 Comment Deck: Coming soon 5%
 - 🔨 ToxicFilter: Coming soon 3%
 - 🔨 SCIWP 2: Coming soon 35%
-- 🔨 Stuckier: Coming soon 8%
+- 🔨 Stuckier: Coming soon 12%
 - 🔨 InverBunny 40%
 - 🔨 ERC20 token exchange 20%
 
