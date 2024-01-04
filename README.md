@@ -7,6 +7,7 @@ In my free time, I'm creating **Swarmain**, a secret project, using Laravel, Web
 I have also developed these projects:
 
 - 🟢 [SCIWP](https://sciwp.com/): A MVC framwork for WordPress ([repo](https://github.com/sciwp)).
+  - 🔨 SCIWP 2: Coming soon 15%
 - 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games ([website](https://duracionde.com/)).
   - 🔨 Forum
 - 🟢 [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
@@ -18,7 +19,6 @@ I have also developed these projects:
 - 🔨 Swarmain: Coming soon 18%
 - 🔨 Comment Deck: Coming soon 5%
 - 🔨 ToxicFilter: Coming soon 3%
-- 🔨 SCIWP 2: Coming soon 35%
 - 🔨 Stuckier: Coming soon 12%
 - 🔨 InverBunny 40%
 - 🔨 ERC20 token exchange 20%
