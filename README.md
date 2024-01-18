@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edu, a full stack engineer
 
-I work at [H&C](https://horseandcountry.tv/) and create tutorials at [Neoguias](https://www.neoguias.com/).
+I work at [Kenodo](https://kenodo.cokm/) and create tutorials at [Neoguias](https://www.neoguias.com/).
 
 In my free time, I'm creating **Swarmain**, a secret project, using Laravel, Web3 and of course, AI.
 
