@@ -9,7 +9,7 @@ I have also developed these projects:
 - 🟢 [SCIWP](https://sciwp.com/): A MVC framwork for WordPress ([repo](https://github.com/sciwp)).
   - 🔨 SCIWP 2: 15%
 - 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games ([website](https://duracionde.com/)).
-  - Forum 🔨 30% 
+  - Forum ✔️
   - Promotors ✔️
 - 🟢 [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
 - 🟢 [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
