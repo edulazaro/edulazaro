@@ -26,6 +26,12 @@ I have also developed these projects:
 - 🔴 InverBunny: 40%
 - 🔨 ERC20 token exchange: 20%
 
+These are the repos of some of the tutorials I created over the years:
+
+- How to create a messaging app with Laravel and Vue [repo](https://github.com/neoguias/tutorial-mensajeria-laravel-vue)
+- How to create a Multisign wallet with React and Solidity [repo](https://github.com/neoguias/tutorial-wallet-multifirma)
+
+
 You can find more about me on [my website](https://edulazaro.com).
 
 ## 🔗 Let's connect!
