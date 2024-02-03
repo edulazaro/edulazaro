@@ -23,7 +23,7 @@ I have also developed these projects:
 - 🔨 Comment Deck: 5%
 - 🔨 ToxicFilter: 3%
 - 🔨 Stuckier: 40%
-- 🔨 InverBunny: 40%
+- 🔴 InverBunny: 40%
 - 🔨 ERC20 token exchange: 20%
 
 You can find more about me on [my website](https://edulazaro.com).
