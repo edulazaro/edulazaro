@@ -20,6 +20,7 @@ I have also developed these projects:
   - Add term keepers via Larakeep 🔨
   - Improve navigation UX 🔨
   - Add new icon art 🔨
+  - Sitemap 🔨
 - 🔨 ByBit PHP SDK: 10%
 - 🔨 Forostack: 40%
 - 🔨 Swarmain: 18%
