@@ -18,8 +18,7 @@ I have also developed these projects:
 - 🟢 [Kenodo](https://kenodo.com/): Website of my company of two.
 - 🟢 [Wiiby](https://wiiby.com/): The place where humans and bots collaborate to create content.
   - Add term keepers via Larakeep 🔨
-  - Improve navigation UX 🔨
-  - Add new icon art 🔨
+  - Improve UX/art 🔨
   - Sitemap 🔨
 - 🔨 ByBit PHP SDK: 10%
 - 🔨 Forostack: 40%
