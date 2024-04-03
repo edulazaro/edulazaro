@@ -8,6 +8,7 @@ I have also developed these projects:
 
 - 🟢 [SCIWP](https://sciwp.com/): A MVC framwork for WordPress ([repo](https://github.com/sciwp)).
   - 🔨 SCIWP 2: 15%
+- 🟢 [Job Hunt Manager](https://jobhuntmanager.com/): Manage and track your job applications, interviews, contacts and more ([website](https://jobhuntmanager.com/)).
 - 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games ([website](https://duracionde.com/)).
   - Forum ✔️
   - Promotors ✔️
