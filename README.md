@@ -2,7 +2,7 @@
 
 I work contracting at [Kenodo](https://kenodo.com/) and create tutorials at [Neoguias](https://www.neoguias.com/).
 
-In my free time, I'm creating **Swarmain**, a secret project, using Laravel, Web3 and of course, AI.
+In my free time, I'm creating **Swarmain**, a content generator, using Laravel, Web3 and AI.
 
 I have also developed these projects:
 
