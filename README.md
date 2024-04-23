@@ -8,7 +8,7 @@ I have also developed these projects:
 
 - 🟢 [SCIWP](https://sciwp.com/): A MVC framwork for WordPress ([repo](https://github.com/sciwp)).
   - 🔨 SCIWP 2: 15%
-- 🟢 [Job Hunt Manager](https://jobhuntmanager.com/): Manage and track your job applications, interviews, contacts and more ([website](https://jobhuntmanager.com/)).
+- 🟢 [Job Hunt Manager](https://jobhuntmanager.com/): Manage and track your job applications, interviews, contacts and more. Also generate your cover letters with AI ([website](https://jobhuntmanager.com/)).
 - 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games, created with Laravel and Renderex, to render blade components asynchronously ([website](https://duracionde.com/)).
 - 🟢 [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
 - 🟢 [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
