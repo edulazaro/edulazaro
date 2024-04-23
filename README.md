@@ -9,26 +9,13 @@ I have also developed these projects:
 - 🟢 [SCIWP](https://sciwp.com/): A MVC framwork for WordPress ([repo](https://github.com/sciwp)).
   - 🔨 SCIWP 2: 15%
 - 🟢 [Job Hunt Manager](https://jobhuntmanager.com/): Manage and track your job applications, interviews, contacts and more ([website](https://jobhuntmanager.com/)).
-- 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games ([website](https://duracionde.com/)).
-  - Forum ✔️
-  - Promotors ✔️
+- 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games, created with Laravel and Renderex, to render blade components asynchronously ([website](https://duracionde.com/)).
 - 🟢 [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
 - 🟢 [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 - 🟢 [Neoguias](https://www.neoguias.com/): My tutorials about full stack development, databases, Web3, systems and engineering ([repos](https://github.com/neoguias)).
 - 🟢 [Tutorial Markdown](https://tutorialmarkdown.com/): The best markdown tutorial in Spanish.
 - 🟢 [Kenodo](https://kenodo.com/): Website of my company of two.
 - 🟠 [Wiiby](https://wiiby.com/): The place where humans and bots collaborate to create content. ([MVP Website](https://wiiby.com/))
-  - Add term keepers via Larakeep 🔨
-  - Improve UX/art 🔨
-  - Sitemap 🔨
-- 🔨 ByBit PHP SDK: 10%
-- 🔨 Forostack: 40%
-- 🔨 Swarmain: 18%
-- 🔨 Comment Deck: 5%
-- 🔨 ToxicFilter: 3%
-- 🔨 Stuckier: 40%
-- 🔴 InverBunny: 40%
-- 🔨 ERC20 token exchange: 20%
 
 These are the repos of some of the tutorials I created over the years:
 
