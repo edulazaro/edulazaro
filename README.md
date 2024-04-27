@@ -13,7 +13,7 @@ I have also developed these projects:
 - 🟢 [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
 - 🟢 [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 - 🟢 [Neoguias](https://www.neoguias.com/): My tutorials about full stack development, databases, Web3, systems and engineering ([repos](https://github.com/neoguias)).
-- 🟢 [InverBunnyDex](https://github.com/edulazaro/exchange-inverbunny)): An open source experimental DEX on the Ethereum network accepting any X/DAI pair of tokens.
+- 🟢 [InverBunnyDex](https://github.com/edulazaro/exchange-inverbunny): An open source experimental DEX on the Ethereum network accepting any X/DAI pair of tokens ([repos](https://github.com/edulazaro/exchange-inverbunny))..
 - 🟢 [Tutorial Markdown](https://tutorialmarkdown.com/): The best markdown tutorial in Spanish.
 - 🟢 [Kenodo](https://kenodo.com/): Website of my company of two.
 - 🟠 [Wiiby](https://wiiby.com/): The place where humans and bots collaborate to create content. ([MVP Website](https://wiiby.com/))
