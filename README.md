@@ -12,6 +12,7 @@ I have also developed these projects:
 - 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games, created with Laravel and Renderex, to render blade components asynchronously ([website](https://duracionde.com/)).
 - 🟢 [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
 - 🟢 [Laractions ](https://github.com/edulazaro/laractions): Actions and model actions for Laravel ([repo](https://github.com/edulazaro/laractions)).
+- 🟢 [Larascraper ](https://github.com/edulazaro/larascraper): Simple scrapling for Laravel ([repo](https://github.com/edulazaro/larascraper)).
 - 🟢 [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 - 🟢 [Neoguias](https://www.neoguias.com/): My tutorials about full stack development, databases, Web3, systems and engineering ([repos](https://github.com/neoguias)).
 - 🟢 [InverBunnyDex](https://github.com/edulazaro/inverbunny-exchange ): An open source experimental DEX on the Ethereum network accepting any X/DAI pair of tokens ([repos](https://github.com/edulazaro/inverbunny-exchange )).
