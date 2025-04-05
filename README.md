@@ -22,6 +22,7 @@ Here are some packages I created for Laravel:
 - ⚙️ [Laractions](https://github.com/edulazaro/laractions): Actions and model actions for Laravel ([repo](https://github.com/edulazaro/laractions)).
 - ⚙️ [Larascraper](https://github.com/edulazaro/larascraper): Simple scrapling for Laravel ([repo](https://github.com/edulazaro/larascraper)).
 - ⚙️ [Laralang](https://packagist.org/packages/edulazaro/laralang): A localisation package for Laravel ([repo](https://github.com/edulazaro/laralang)).
+- ⚙️ [Laratext](https://packagist.org/packages/edulazaro/laratext): A text management package for Laravel supporting automated translations ([repo](https://github.com/edulazaro/laratext)).
 - ⚙️ [Larakeep](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 
 These are the repos of some of the tutorials I created over the years:
