@@ -10,16 +10,19 @@ I have also developed these projects:
   - 🔨 SCIWP 2: 15%
 - 🟢 [Job Hunt Manager](https://jobhuntmanager.com/): Manage and track your job applications, interviews, assessments, contacts, files, links and more. Also generate your cover letters with AI ([website](https://jobhuntmanager.com/)).
 - 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games, created with Laravel and Renderex, to render blade components asynchronously ([website](https://duracionde.com/)).
-- 🟢 [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
-- 🟢 [Laractions ](https://github.com/edulazaro/laractions): Actions and model actions for Laravel ([repo](https://github.com/edulazaro/laractions)).
-- 🟢 [Larascraper ](https://github.com/edulazaro/larascraper): Simple scrapling for Laravel ([repo](https://github.com/edulazaro/larascraper)).
-- 🟢 [Laralang ](https://packagist.org/packages/edulazaro/laralang): A localisation package for Laravel ([repo](https://github.com/edulazaro/laralang)).
-- 🟢 [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 - 🟢 [Neoguias](https://www.neoguias.com/): My tutorials about full stack development, databases, Web3, systems and engineering ([repos](https://github.com/neoguias)).
 - 🟢 [InverBunnyDex](https://github.com/edulazaro/inverbunny-exchange ): An open source experimental DEX on the Ethereum network accepting any X/DAI pair of tokens ([repos](https://github.com/edulazaro/inverbunny-exchange )).
 - 🟢 [Tutorial Markdown](https://tutorialmarkdown.com/): The best markdown tutorial in Spanish.
 - 🟢 [Kenodo](https://kenodo.com/): Website of my company of two.
 - 🟠 [Wiiby](https://wiiby.com/): The place where humans and bots collaborate to create content. ([MVP Website](https://wiiby.com/))
+
+Here are some packages I created for Laravel:
+
+- 🟢 [Larawards ](https://github.com/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
+- 🟢 [Laractions ](https://github.com/edulazaro/laractions): Actions and model actions for Laravel ([repo](https://github.com/edulazaro/laractions)).
+- 🟢 [Larascraper ](https://github.com/edulazaro/larascraper): Simple scrapling for Laravel ([repo](https://github.com/edulazaro/larascraper)).
+- 🟢 [Laralang ](https://packagist.org/packages/edulazaro/laralang): A localisation package for Laravel ([repo](https://github.com/edulazaro/laralang)).
+- 🟢 [Larakeep ](https://github.com/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 
 These are the repos of some of the tutorials I created over the years:
 
