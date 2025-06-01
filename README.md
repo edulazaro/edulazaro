@@ -18,12 +18,13 @@ I have also developed these projects:
 
 Here are some packages I created for Laravel:
 
-- ⚙️ [Larawards](https://packagist.org/packages/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
 - ⚙️ [Laractions](https://packagist.org/packages/edulazaro/laractions): Actions and model actions for Laravel ([repo](https://github.com/edulazaro/laractions)).
 - ⚙️ [Larascraper](https://packagist.org/packages/edulazaro/larascraper): Simple scraping for Laravel ([repo](https://github.com/edulazaro/larascraper)).
 - ⚙️ [Laralang](https://packagist.org/packages/edulazaro/laralang): A localisation package for Laravel ([repo](https://github.com/edulazaro/laralang)).
 - ⚙️ [Laratext](https://packagist.org/packages/edulazaro/laratext): A text management package for Laravel supporting automated translations ([repo](https://github.com/edulazaro/laratext)).
+- ⚙️ [Larallow](https://packagist.org/packages/edulazaro/larallow): A permisions and roles package for Laravel ([repo](https://github.com/edulazaro/larallow)).
 - ⚙️ [Larakeep](https://packagist.org/packages/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
+- ⚙️ [Larawards](https://packagist.org/packages/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
 
 These are the repos of some of the tutorials I created over the years:
 
