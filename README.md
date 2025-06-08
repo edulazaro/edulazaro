@@ -25,7 +25,7 @@ Here are some packages I created for Laravel:
 - ⚙️ [Larallow](https://packagist.org/packages/edulazaro/larallow): A permisions and roles package for Laravel ([repo](https://github.com/edulazaro/larallow)).
 - ⚙️ [Larakeep](https://packagist.org/packages/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
 - ⚙️ [Larawards](https://packagist.org/packages/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
-- ⚙️ [Larawards](https://packagist.org/packages/edulazaro/laracontext): Global context management and model context linking for Laravel ([repo](https://github.com/edulazaro/laracontext)).
+- ⚙️ [Laracontext](https://packagist.org/packages/edulazaro/laracontext): Global context management and model context linking for Laravel ([repo](https://github.com/edulazaro/laracontext)).
 
 These are the repos of some of the tutorials I created over the years:
 
