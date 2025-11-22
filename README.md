@@ -16,15 +16,15 @@
 
 ## 💼 Sobre mí
 
-Soy **Senior Lead Developer** en [Horse & Country](https://www.horseandcountry.tv), donde desarrollo soluciones de streaming para la plataforma líder en contenido ecuestre.
+Soy **Senior Lead Developer** y fundador de **Kenodo Ltd**, donde desarrollo plataformas colaborativas con impacto social como [Claimeet](https://claimeet.com).
 
 También soy creador de contenido técnico en **[Neoguias](https://neoguias.com)**, donde comparto tutoriales sobre Laravel, PHP, Docker, blockchain y desarrollo web.
 
 ### 🎯 En qué trabajo actualmente
 
-- 🏢 **Senior Lead Developer** en Horse & Country (streaming platform)
+- 🏢 **Senior Lead Developer** en Kenodo Ltd (plataformas colaborativas)
 - 📝 **Content Creator** en Neoguias (tutoriales técnicos)
-- 🚀 **Fundador** de Kenodo Ltd (plataformas colaborativas)
+- 🚀 **Fundador** de Claimeet (reclamaciones colectivas)
 - 🔨 **Desarrollando** Swarmain (generador de contenido con Laravel + AI)
 
 ---
@@ -189,26 +189,19 @@ Contribuyo activamente a la comunidad open-source:
 
 ## 💼 Experiencia Profesional
 
-### Senior Lead Developer en Horse & Country
-*Plataforma de streaming especializada en contenido ecuestre*
+### Senior Lead Developer & Fundador en Kenodo Ltd
+*Empresa de desarrollo de plataformas colaborativas con impacto social*
 
-- Arquitectura y desarrollo de soluciones de streaming
-- Liderazgo técnico del equipo de desarrollo
-- Implementación de nuevas funcionalidades
+- Arquitectura y desarrollo de plataformas web complejas
+- Liderazgo técnico y gestión de proyectos
+- Desarrollo de Claimeet (plataforma de reclamaciones colectivas)
+- Consultoría en desarrollo web y soluciones a medida
 - Optimización de rendimiento y escalabilidad
-
-### Fundador en Kenodo Ltd
-*Empresa de desarrollo de plataformas colaborativas*
-
-- Desarrollo de Claimeet (plataforma de reclamaciones)
-- Consultoría en desarrollo web
-- Creación de soluciones a medida
-- Gestión de proyectos técnicos
 
 ### Content Creator en Neoguias
 *Publicación técnica de tutoriales en español*
 
-- Redacción de tutoriales técnicos
+- Redacción de tutoriales técnicos sobre Laravel, PHP y DevOps
 - Creación de guías y documentación
 - Divulgación de buenas prácticas
 - Formación de desarrolladores
