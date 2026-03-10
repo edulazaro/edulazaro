@@ -1,42 +1,157 @@
-# 👋 Hi, I'm Edu, a full stack engineer
+# 👋 Hi, I'm Eduardo Lázaro
 
-I work as a Full Stack Developer and create tutorials at [Neoguias](https://www.neoguias.com/).
+**Senior Full-Stack Engineer · Laravel Architect · SaaS Builder**
 
-In my free time, I'm creating **Swarmain**, a content generator, using Laravel, Web3 and AI.
+I design and build scalable platforms, developer tools and content systems using **Laravel, modern PHP ecosystems, AI and Web technologies**.
 
-I have also developed these projects:
+I also write technical tutorials at  
+👉 https://www.neoguias.com
 
-- 🟢 [SCIWP](https://sciwp.com/): A MVC framwork for WordPress ([repo](https://github.com/sciwp)).
-  - 🔨 SCIWP 2: 15%
-- 🟢 [Job Hunt Manager](https://jobhuntmanager.com/): Manage and track your job applications, interviews, assessments, contacts, files, links and more. Also generate your cover letters with AI ([website](https://jobhuntmanager.com/)).
-- 🟢 [DuracionDe](https://duracionde.com/): A place where users collaborate submitting gameplays and adding games, created with Laravel and Renderex, to render blade components asynchronously ([website](https://duracionde.com/)).
-- 🟢 [Claimeet](https://claimeet.com/): Claimeet helps you join others affected by fraud, scams, or unpaid debts. Get organized, gather evidence, and file a collective claim ([website](https://claimeet.com/)).
-- 🟢 [Neoguias](https://www.neoguias.com/): My tutorials about full stack development, databases, Web3, systems and engineering ([repos](https://github.com/neoguias)).
-- 🟢 [InverBunnyDex](https://github.com/edulazaro/inverbunny-exchange ): An open source experimental DEX on the Ethereum network accepting any X/DAI pair of tokens ([repos](https://github.com/edulazaro/inverbunny-exchange )).
-- 🟢 [Tutorial Markdown](https://tutorialmarkdown.com/): The best markdown tutorial in Spanish.
-- 🟢 [Kenodo](https://kenodo.com/): Website of my company of two.
-- 🟠 [Wiiby](https://wiiby.com/): The place where humans and bots collaborate to create content. ([MVP Website](https://wiiby.com/))
+---
 
-Here are some packages I created for Laravel:
+# 🚀 Current Projects
 
-- ⚙️ [Laractions](https://packagist.org/packages/edulazaro/laractions): Actions and model actions for Laravel ([repo](https://github.com/edulazaro/laractions)).
-- ⚙️ [Larascraper](https://packagist.org/packages/edulazaro/larascraper): Simple scraping for Laravel ([repo](https://github.com/edulazaro/larascraper)).
-- ⚙️ [Laralang](https://packagist.org/packages/edulazaro/laralang): A localisation package for Laravel ([repo](https://github.com/edulazaro/laralang)).
-- ⚙️ [Laratext](https://packagist.org/packages/edulazaro/laratext): A text management package for Laravel supporting automated translations ([repo](https://github.com/edulazaro/laratext)).
-- ⚙️ [Larallow](https://packagist.org/packages/edulazaro/larallow): A permisions and roles package for Laravel ([repo](https://github.com/edulazaro/larallow)).
-- ⚙️ [Larakeep](https://packagist.org/packages/edulazaro/larakeep): Create Keepers to maintain the value of the desired Laravel model fields ([repo](https://github.com/edulazaro/larakeep)).
-- ⚙️ [Larawards](https://packagist.org/packages/edulazaro/larawards): An awards system to handle achievements and trophies in Laravel ([repo](https://github.com/edulazaro/larawards)).
-- ⚙️ [Laracontext](https://packagist.org/packages/edulazaro/laracontext): Global context management and model context linking for Laravel ([repo](https://github.com/edulazaro/laracontext)).
+### 🧠 Swarmain
+AI-powered collaborative content generator built with **Laravel, Web3 and AI**.
 
-These are the repos of some of the tutorials I created over the years:
+### ⚖️ Claimeet
+Platform that helps people **organize collective claims** against fraud, scams or unpaid debts.  
+https://claimeet.com
 
-- How to create a messaging app with Laravel and Vue [repo](https://github.com/neoguias/tutorial-mensajeria-laravel-vue)
-- How to create a Multisign wallet with React and Solidity [repo](https://github.com/neoguias/tutorial-wallet-multifirma)
+### 🎮 DuracionDe
+Community-driven platform where users submit gameplays to calculate the **real duration of videogames**.  
+https://duracionde.com
 
+### 📚 Neoguias
+Technical blog with **1000+ tutorials** about programming, databases, web engineering and systems.  
+https://www.neoguias.com
 
-You can find more about me on [my website](https://edulazaro.com).
+---
 
-## 🔗 Let's connect!
+# 🌍 Communities & Developer Ecosystem
 
-<a href="https://github.com/edulazaro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/neeonez" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+### 🇦🇩 Laravel Andorra
+Community of Laravel developers in Andorra focused on **meetups, knowledge sharing and open source collaboration**.  
+https://laravelandorra.com
+
+### 🇪🇸 Laravel Spain
+Spanish Laravel community connecting developers, resources and discussions around the ecosystem.  
+https://laravelspain.com
+
+### 🛠 Artesanos
+Community and knowledge hub for developers focused on craftsmanship and modern web development.  
+https://artesanos.dev
+
+---
+
+# 🧩 Laravel Packages
+
+I build tools that simplify complex architecture patterns in Laravel.
+
+⚙️ **Laractions**  
+Actions and model actions system for Laravel  
+https://packagist.org/packages/edulazaro/laractions  
+https://github.com/edulazaro/laractions
+
+⚙️ **Larascraper**  
+Simple and extensible scraping architecture for Laravel  
+https://packagist.org/packages/edulazaro/larascraper  
+https://github.com/edulazaro/larascraper
+
+⚙️ **Laralang**  
+Localization management for Laravel applications  
+https://packagist.org/packages/edulazaro/laralang  
+https://github.com/edulazaro/laralang
+
+⚙️ **Laratext**  
+Text management with automatic translation support  
+https://packagist.org/packages/edulazaro/laratext  
+https://github.com/edulazaro/laratext
+
+⚙️ **Larallow**  
+Role and permission management system  
+https://packagist.org/packages/edulazaro/larallow  
+https://github.com/edulazaro/larallow
+
+⚙️ **Larakeep**  
+Maintain the value of specific Laravel model fields automatically  
+https://packagist.org/packages/edulazaro/larakeep  
+https://github.com/edulazaro/larakeep
+
+⚙️ **Larawards**  
+Achievements and trophy system for Laravel apps  
+https://packagist.org/packages/edulazaro/larawards  
+https://github.com/edulazaro/larawards
+
+⚙️ **Laracontext**  
+Global context management and model context linking  
+https://packagist.org/packages/edulazaro/laracontext  
+https://github.com/edulazaro/laracontext
+
+---
+
+# 🧩 JavaScript Packages
+
+⚡ **wire-sortable**  
+Drag & drop sorting for **Laravel Livewire components**  
+https://www.npmjs.com/package/wire-sortable
+
+---
+
+# 🛠 Other Projects
+
+🧩 **SCIWP**  
+MVC framework architecture for WordPress  
+https://sciwp.com  
+https://github.com/sciwp  
+SCIWP 2 in progress (15%)
+
+📊 **Job Hunt Manager**  
+Platform to manage job applications and generate cover letters with AI  
+https://jobhuntmanager.com
+
+💱 **InverBunnyDex**  
+Experimental decentralized exchange on Ethereum  
+https://github.com/edulazaro/inverbunny-exchange
+
+📝 **TutorialMarkdown**  
+One of the most popular Markdown tutorials in Spanish  
+https://tutorialmarkdown.com
+
+🗄 **TutorialMySQL**  
+Complete MySQL tutorial and reference in Spanish  
+https://tutorialmysql.org
+
+🏢 **Kenodo**
+Software engineering studio  
+https://kenodo.com
+
+🇦🇩 **AndorraDev**
+Software development studio building SaaS platforms and web applications.  
+https://andorradev.com
+
+🤖 **Wiiby (MVP)**  
+Experimental platform where humans and bots collaborate to create content  
+https://wiiby.com
+
+---
+
+# 🧪 Tutorials & Experiments
+
+Example repositories from tutorials I created:
+
+Laravel + Vue messaging app  
+https://github.com/neoguias/tutorial-mensajeria-laravel-vue
+
+Multisign wallet with React + Solidity  
+https://github.com/neoguias/tutorial-wallet-multifirma
+
+More tutorials → https://www.neoguias.com
+
+---
+
+# 🌍 Find me online
+
+🌐 https://edulazaro.com  
+🐙 https://github.com/edulazaro  
+🐦 https://twitter.com/neeonez
