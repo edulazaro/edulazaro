@@ -35,11 +35,11 @@ Community of Laravel developers in Andorra focused on **meetups, knowledge shari
 https://laravelandorra.com
 
 ### 🇪🇸 Laravel Spain
-Spanish Laravel community connecting developers, resources and discussions around the ecosystem.  
+Spanish Laravel community connecting developers and resources around the Laravel ecosystem.  
 https://laravelspain.com
 
 ### 🛠 Artesanos
-Community and knowledge hub for developers focused on craftsmanship and modern web development.  
+Developer community focused on **software craftsmanship and modern development**.  
 https://artesanos.dev
 
 ---
@@ -49,42 +49,34 @@ https://artesanos.dev
 I build tools that simplify complex architecture patterns in Laravel.
 
 ⚙️ **Laractions**  
-Actions and model actions system for Laravel  
 https://packagist.org/packages/edulazaro/laractions  
 https://github.com/edulazaro/laractions
 
 ⚙️ **Larascraper**  
-Simple and extensible scraping architecture for Laravel  
 https://packagist.org/packages/edulazaro/larascraper  
 https://github.com/edulazaro/larascraper
 
 ⚙️ **Laralang**  
-Localization management for Laravel applications  
 https://packagist.org/packages/edulazaro/laralang  
 https://github.com/edulazaro/laralang
 
 ⚙️ **Laratext**  
-Text management with automatic translation support  
 https://packagist.org/packages/edulazaro/laratext  
 https://github.com/edulazaro/laratext
 
 ⚙️ **Larallow**  
-Role and permission management system  
 https://packagist.org/packages/edulazaro/larallow  
 https://github.com/edulazaro/larallow
 
 ⚙️ **Larakeep**  
-Maintain the value of specific Laravel model fields automatically  
 https://packagist.org/packages/edulazaro/larakeep  
 https://github.com/edulazaro/larakeep
 
 ⚙️ **Larawards**  
-Achievements and trophy system for Laravel apps  
 https://packagist.org/packages/edulazaro/larawards  
 https://github.com/edulazaro/larawards
 
 ⚙️ **Laracontext**  
-Global context management and model context linking  
 https://packagist.org/packages/edulazaro/laracontext  
 https://github.com/edulazaro/laracontext
 
@@ -98,13 +90,28 @@ https://www.npmjs.com/package/wire-sortable
 
 ---
 
-# 🛠 Other Projects
+# 🛠 Companies & Studios
+
+🏢 **AndorraDev**  
+Software development agency building **SaaS platforms, web applications and digital tools**.  
+https://andorradev.com
+
+🌌 **Ionospace**  
+Web design studio focused on **high-impact visual design and creative digital experiences**.  
+https://ionospace.com
+
+🏢 **Kenodo**  
+Software engineering studio.  
+https://kenodo.com
+
+---
+
+# 🧪 Other Projects
 
 🧩 **SCIWP**  
 MVC framework architecture for WordPress  
 https://sciwp.com  
-https://github.com/sciwp  
-SCIWP 2 in progress (15%)
+https://github.com/sciwp
 
 📊 **Job Hunt Manager**  
 Platform to manage job applications and generate cover letters with AI  
@@ -115,30 +122,20 @@ Experimental decentralized exchange on Ethereum
 https://github.com/edulazaro/inverbunny-exchange
 
 📝 **TutorialMarkdown**  
-One of the most popular Markdown tutorials in Spanish  
+Popular Markdown tutorial in Spanish  
 https://tutorialmarkdown.com
 
 🗄 **TutorialMySQL**  
-Complete MySQL tutorial and reference in Spanish  
+Complete MySQL tutorial and reference  
 https://tutorialmysql.org
 
-🏢 **Kenodo**
-Software engineering studio  
-https://kenodo.com
-
-🇦🇩 **AndorraDev**
-Software development studio building SaaS platforms and web applications.  
-https://andorradev.com
-
 🤖 **Wiiby (MVP)**  
-Experimental platform where humans and bots collaborate to create content  
+Platform where humans and bots collaborate to create content  
 https://wiiby.com
 
 ---
 
 # 🧪 Tutorials & Experiments
-
-Example repositories from tutorials I created:
 
 Laravel + Vue messaging app  
 https://github.com/neoguias/tutorial-mensajeria-laravel-vue
