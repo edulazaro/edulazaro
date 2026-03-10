@@ -34,10 +34,6 @@ https://www.neoguias.com
 Community of Laravel developers in Andorra focused on **meetups, knowledge sharing and open source collaboration**.  
 https://laravelandorra.com
 
-### 🇪🇸 Laravel Spain
-Spanish Laravel community connecting developers and resources around the Laravel ecosystem.  
-https://laravelspain.com
-
 ### 🛠 Artesanos
 Developer community focused on **software craftsmanship and modern development**.  
 https://artesanos.dev
