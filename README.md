@@ -62,7 +62,9 @@ Currently in development.
 
 [Visit product](https://riptire.com) · [Technical case study](https://edulazaro.com/portfolio/riptire)
 
-**More gaming projects:** [Stack the Rent](https://edulazaro.itch.io/stack-the-rent), [Carmageddon Tuner](https://github.com/edulazaro/carmageddon-tuner) and [Carmageddon Extractor](https://github.com/edulazaro/carmageddon-extractor).
+### OTHER GAMING
+
+Created [Stack the Rent](https://edulazaro.itch.io/stack-the-rent), [Carmageddon Tuner](https://github.com/edulazaro/carmageddon-tuner) and [Carmageddon Extractor](https://github.com/edulazaro/carmageddon-extractor).
 
 ## Selected open source
 
