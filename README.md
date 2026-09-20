@@ -8,7 +8,7 @@ Most of my open-source work comes from problems first solved inside real product
 
 Based in Andorra and working remotely across Europe.
 
-[Portfolio](https://edulazaro.com/portfolio) · [LinkedIn](https://www.linkedin.com/in/edulazaro/) · [Contact](https://edulazaro.com/#contact)
+[Portfolio](https://edulazaro.com/portfolio) · [LinkedIn](https://www.linkedin.com/in/edulazaro/)· [X](https://x.com/neeonez) · [Contact](https://edulazaro.com/#contact)
 
 ## Current focus
 
