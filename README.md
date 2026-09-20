@@ -20,7 +20,7 @@ It brings together matters, court proceedings, arbitration, out-of-court settlem
 
 At its core is **Inis**, an agentic legal assistant with more than 80 callable tools, hybrid retrieval across Spanish and European legal sources, document intelligence, persistent memory and MCP integrations.
 
-Built end to end as a solo founder: product, backend, frontend, infrastructure and sales.
+Built end to end as a solo founder, including product, backend, frontend, infrastructure and sales.
 
 [View case study](https://edulazaro.com/portfolio/crowdlegal) · [Explore Inis](https://edulazaro.com/portfolio/inislegal)
 
@@ -41,15 +41,15 @@ More Laravel packages: [Laractions](https://github.com/edulazaro/laractions), [L
 
 ## Selected product engineering
 
-* **[Flux Reporting Tool](https://edulazaro.com/portfolio/flux-outdoor)** — Real-time and historical reporting for a digital-out-of-home network producing thousands of screen events per minute, with multi-level MongoDB rollups and exact creative reconstruction.
+* **[Flux Reporting Tool](https://edulazaro.com/portfolio/flux-outdoor):** Real-time and historical reporting for a digital-out-of-home network producing thousands of screen events per minute, with multi-level MongoDB rollups and exact creative reconstruction.
 
-* **[Horse & Country Streaming](https://edulazaro.com/portfolio/horseandcountry-portal)** — Subscription video platform integrating Kaltura and InPlayer, combining catalogue, playback and entitlement management. I worked at Horse & Country as Lead Software Engineer.
+* **[Horse & Country Streaming](https://edulazaro.com/portfolio/horseandcountry-portal):** Subscription video platform integrating Kaltura and InPlayer, combining catalogue, playback and entitlement management. I worked at Horse & Country as Lead Software Engineer.
 
-* **[DuracionDe](https://edulazaro.com/portfolio/duracionde)** — Spanish-language videogame duration platform covering almost 100,000 games and reaching a peak of 500,000 monthly users.
+* **[DuracionDe](https://edulazaro.com/portfolio/duracionde):** Spanish-language videogame duration platform covering almost 100,000 games and reaching a peak of 500,000 monthly users.
 
-* **[InmoQueen](https://edulazaro.com/portfolio)** — Multi-group real-estate platform combining an internal CRM, a public property portal and independent websites backed by the same operational data.
+* **[InmoQueen](https://edulazaro.com/portfolio):** Multi-group real estate platform combining an internal CRM, a public property portal and independent websites backed by the same operational data.
 
-* **[RIPTIRE](https://riptire.com)** — A vehicular combat game and interactive world built with JavaScript and Three.js.
+* **[RIPTIRE](https://riptire.com):** A vehicular combat game and interactive world built with JavaScript and Three.js.
 
 ## What I work with
 
