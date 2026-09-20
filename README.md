@@ -22,14 +22,6 @@ It brings together matters, court proceedings, arbitration, out-of-court settlem
 
 [Visit product](https://crowd.legal) · [Technical case study](https://edulazaro.com/portfolio/crowdlegal)
 
-### Inis Legal
-
-An agentic legal assistant grounded in Spanish and European legislation and case law.
-
-Inis combines more than 80 callable legal tools with hybrid retrieval, document intelligence, persistent memory and MCP integrations. It can research legislation, work with legal documents, calculate deadlines, generate documents and act directly on matters while keeping its answers traceable to their sources.
-
-[Visit product](https://inis.legal) · [Technical case study](https://edulazaro.com/portfolio/inislegal)
-
 ### Claimeet
 
 A public platform that helps people organize collective claims when companies act unfairly, from sudden closures and unpaid refunds to fraud, abusive subscriptions and contractual breaches.
@@ -37,6 +29,24 @@ A public platform that helps people organize collective claims when companies ac
 It provides the consumer-facing side of the ecosystem, helping affected people find one another, gather information and coordinate action around a shared claim.
 
 [Visit product](https://claimeet.com) · [Technical case study](https://edulazaro.com/portfolio/claimeet)
+
+## AI Assistants
+
+Specialized AI products combining domain knowledge, tool use, persistent memory and purpose-built infrastructure.
+
+### Inis Legal
+
+An agentic legal assistant grounded in a large corpus of Spanish and European legislation and case law.
+
+Its legal knowledge base contains more than 300,000 sources indexed into approximately 4 million searchable chunks. Inis combines this corpus with hybrid retrieval, more than 80 callable legal tools, document intelligence, persistent memory and MCP integrations. It can research legislation, analyze legal documents, calculate deadlines, generate documents and act directly on matters while keeping its answers traceable to their original sources.
+
+[Visit product](https://inis.legal) · [Technical case study](https://edulazaro.com/portfolio/inislegal)
+
+### [Tarotian](https://tarotian.com)
+
+An AI assistant for tarot, astrology and personal reflection, already used by real users. It provides interpreted readings, contextual follow-up conversations, persistent memory and natal chart calculations. Built with [Laragents](https://github.com/edulazaro/laragents), [Larameter](https://github.com/edulazaro/larameter), [Astronomy PHP](https://github.com/edulazaro/astronomy-php) and [Lararand](https://github.com/edulazaro/lararand), putting several of my open-source packages into production within a complete subscription product.
+
+[Visit product](https://tarotian.com)
 
 ## Gaming and interactive products
 
