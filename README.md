@@ -42,7 +42,7 @@ Its legal knowledge base contains more than 300,000 sources indexed into approxi
 
 [Visit product](https://inis.legal) · [Technical case study](https://edulazaro.com/portfolio/inislegal)
 
-### [Tarotian](https://tarotian.com)
+### Tarotian
 
 An AI assistant for tarot, astrology and personal reflection, already used by real users. It provides interpreted readings, contextual follow-up conversations, persistent memory and natal chart calculations. Built with [Laragents](https://github.com/edulazaro/laragents), [Larameter](https://github.com/edulazaro/larameter), [Astronomy PHP](https://github.com/edulazaro/astronomy-php) and [Lararand](https://github.com/edulazaro/lararand), putting several of my open-source packages into production within a complete subscription product.
 
