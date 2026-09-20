@@ -1,150 +1,69 @@
-# 👋 Hi, I'm Eduardo Lázaro
+# Hi, I'm Eduardo Lázaro
 
-**Senior Full-Stack Engineer · Laravel Architect · SaaS Builder**
+**Senior Software Engineer & Architect · Laravel & AI**
 
-I design and build scalable platforms, developer tools and content systems using **Laravel, modern PHP ecosystems, AI and Web technologies**.
+I design and build complex software products, from SaaS and legaltech platforms to reusable Laravel infrastructure and scientific computing.
 
-I also write technical tutorials at  
-👉 https://www.neoguias.com
+Most of my open-source work comes from problems first solved inside real products: authorization, usage metering, document processing, AI agents, privacy, search and multi-tenant architecture.
 
----
+Based in Andorra and working remotely across Europe.
 
-# 🚀 Current Projects
+[Portfolio](https://edulazaro.com/portfolio) · [LinkedIn](https://www.linkedin.com/in/edulazaro/) · [Contact](https://edulazaro.com/#contact)
 
-### 🧠 Swarmain
-AI-powered collaborative content generator built with **Laravel, Web3 and AI**.
+## Current focus
 
-### ⚖️ Claimeet
-Platform that helps people **organize collective claims** against fraud, scams or unpaid debts.  
-https://claimeet.com
+### [Crowd Legal](https://crowd.legal)
 
-### 🎮 DuracionDe
-Community-driven platform where users submit gameplays to calculate the **real duration of videogames**.  
-https://duracionde.com
+An operating system for Spanish law firms managing individual, mass and collective litigation.
 
-### 📚 Neoguias
-Technical blog with **1000+ tutorials** about programming, databases, web engineering and systems.  
-https://www.neoguias.com
+It brings together matters, court proceedings, arbitration, out-of-court settlements, deadlines, billing, electronic signatures, document workflows and white-label client portals.
 
----
+At its core is **Inis**, an agentic legal assistant with more than 80 callable tools, hybrid retrieval across Spanish and European legal sources, document intelligence, persistent memory and MCP integrations.
 
-# 🌍 Communities & Developer Ecosystem
+Built end to end as a solo founder: product, backend, frontend, infrastructure and sales.
 
-### 🇦🇩 Laravel Andorra
-Community of Laravel developers in Andorra focused on **meetups, knowledge sharing and open source collaboration**.  
-https://laravelandorra.com
+[View case study](https://edulazaro.com/portfolio/crowdlegal) · [Explore Inis](https://edulazaro.com/portfolio/inislegal)
 
-### 🛠 Artesanos
-Developer community focused on **software craftsmanship and modern development**.  
-https://artesanos.dev
+## Selected open source
 
----
+| Project                                                     | What it solves                                                                                                                                                                               |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Astronomy PHP](https://github.com/edulazaro/astronomy-php) | A dependency-free astronomical engine written in pure PHP and verified against JPL Horizons. Ephemerides, houses, fixed stars, eclipses, occultations, orbits and multiple reference frames. |
+| [Laratext](https://github.com/edulazaro/laratext)           | Readable translation keys and automated translation workflows for Laravel, with OpenAI, Anthropic and Google Translate support.                                                              |
+| [Larallow](https://github.com/edulazaro/larallow)           | Roles and permissions for Laravel with polymorphic actors, scopes, tenant-owned roles, hierarchies and enum support.                                                                         |
+| [Laragents](https://github.com/edulazaro/laragents)         | Provider-agnostic AI agents for Laravel with tool calling, conversation compression, persistent memories, rules, scheduled agents and usage controls.                                        |
+| [Laranon](https://github.com/edulazaro/laranon)             | Reversible PII anonymization for LLMs, logs and third-party APIs, including checksum validation, stable scoped tokens and streaming-safe restoration.                                        |
+| [Laracrate](https://github.com/edulazaro/laracrate)         | Polymorphic file storage with direct R2/S3 uploads, processing pipelines, access control, previews, text extraction, embeddings and hybrid search.                                           |
+| [Larameter](https://github.com/edulazaro/larameter)         | Credit metering, plans, quotas, top-ups and usage limits for Laravel applications.                                                                                                           |
+| [Larameili](https://github.com/edulazaro/larameili)         | Eloquent-style models for Meilisearch when the search index is the primary data store.                                                                                                       |
 
-# 🧩 Laravel Packages
+More Laravel packages: [Laractions](https://github.com/edulazaro/laractions), [Laralang](https://github.com/edulazaro/laralang), [Laraterms](https://github.com/edulazaro/laraterms), [Larasources](https://github.com/edulazaro/larasources), [Lararand](https://github.com/edulazaro/lararand) and [LaraClaude](https://github.com/edulazaro/laraclaude).
 
-I build tools that simplify complex architecture patterns in Laravel.
+## Selected product engineering
 
-⚙️ **Laractions**  
-https://packagist.org/packages/edulazaro/laractions  
-https://github.com/edulazaro/laractions
+* **[Flux Reporting Tool](https://edulazaro.com/portfolio/flux-outdoor)** — Real-time and historical reporting for a digital-out-of-home network producing thousands of screen events per minute, with multi-level MongoDB rollups and exact creative reconstruction.
 
-⚙️ **Larascraper**  
-https://packagist.org/packages/edulazaro/larascraper  
-https://github.com/edulazaro/larascraper
+* **[Horse & Country Streaming](https://edulazaro.com/portfolio/horseandcountry-portal)** — Subscription video platform integrating Kaltura and InPlayer, combining catalogue, playback and entitlement management. I worked at Horse & Country as Lead Software Engineer.
 
-⚙️ **Laralang**  
-https://packagist.org/packages/edulazaro/laralang  
-https://github.com/edulazaro/laralang
+* **[DuracionDe](https://edulazaro.com/portfolio/duracionde)** — Spanish-language videogame duration platform covering almost 100,000 games and reaching a peak of 500,000 monthly users.
 
-⚙️ **Laratext**  
-https://packagist.org/packages/edulazaro/laratext  
-https://github.com/edulazaro/laratext
+* **[InmoQueen](https://edulazaro.com/portfolio)** — Multi-group real-estate platform combining an internal CRM, a public property portal and independent websites backed by the same operational data.
 
-⚙️ **Larallow**  
-https://packagist.org/packages/edulazaro/larallow  
-https://github.com/edulazaro/larallow
+* **[RIPTIRE](https://riptire.com)** — A vehicular combat game and interactive world built with JavaScript and Three.js.
 
-⚙️ **Larakeep**  
-https://packagist.org/packages/edulazaro/larakeep  
-https://github.com/edulazaro/larakeep
+## What I work with
 
-⚙️ **Larawards**  
-https://packagist.org/packages/edulazaro/larawards  
-https://github.com/edulazaro/larawards
+**Backend:** PHP, Laravel, Node.js, MySQL, PostgreSQL, MongoDB, Redis
+**Frontend:** Vue, React, Livewire, Alpine.js, TypeScript, Tailwind CSS, Three.js
+**Infrastructure:** Docker, queues, object storage, Cloudflare, CI/CD, Meilisearch
+**AI:** agentic systems, tool calling, RAG, hybrid search, embeddings, document intelligence and MCP
 
-⚙️ **Laracontext**  
-https://packagist.org/packages/edulazaro/laracontext  
-https://github.com/edulazaro/laracontext
+## Writing and community
 
----
+I have published more than 1,000 technical tutorials through [Neoguias](https://www.neoguias.com), covering programming, databases, web engineering and systems.
 
-# 🧩 JavaScript Packages
+I also maintain [Laravel Spain](https://laravelspain.com) and [Laravel Andorra](https://laravelandorra.com), communities focused on knowledge sharing, open source and professional connections.
 
-⚡ **wire-sortable**  
-Drag & drop sorting for **Laravel Livewire components**  
-https://www.npmjs.com/package/wire-sortable
+## Elsewhere
 
----
-
-# 🛠 Companies & Studios
-
-🏢 **AndorraDev**  
-Software development agency building **SaaS platforms, web applications and digital tools**.  
-https://andorradev.com
-
-🌌 **Ionospace**  
-Web design studio focused on **high-impact visual design and creative digital experiences**.  
-https://ionospace.com
-
-🏢 **Kenodo**  
-Software engineering studio.  
-https://kenodo.com
-
----
-
-# 🧪 Other Projects
-
-🧩 **SCIWP**  
-MVC framework architecture for WordPress  
-https://sciwp.com  
-https://github.com/sciwp
-
-📊 **Job Hunt Manager**  
-Platform to manage job applications and generate cover letters with AI  
-https://jobhuntmanager.com
-
-💱 **InverBunnyDex**  
-Experimental decentralized exchange on Ethereum  
-https://github.com/edulazaro/inverbunny-exchange
-
-📝 **TutorialMarkdown**  
-Popular Markdown tutorial in Spanish  
-https://tutorialmarkdown.com
-
-🗄 **TutorialMySQL**  
-Complete MySQL tutorial and reference  
-https://tutorialmysql.org
-
-🤖 **Wiiby (MVP)**  
-Platform where humans and bots collaborate to create content  
-https://wiiby.com
-
----
-
-# 🧪 Tutorials & Experiments
-
-Laravel + Vue messaging app  
-https://github.com/neoguias/tutorial-mensajeria-laravel-vue
-
-Multisign wallet with React + Solidity  
-https://github.com/neoguias/tutorial-wallet-multifirma
-
-More tutorials → https://www.neoguias.com
-
----
-
-# 🌍 Find me online
-
-🌐 https://edulazaro.com  
-🐙 https://github.com/edulazaro  
-🐦 https://twitter.com/neeonez
+[Website](https://edulazaro.com) · [Full portfolio](https://edulazaro.com/portfolio) · [LinkedIn](https://www.linkedin.com/in/edulazaro/) · [X](https://x.com/neeonez)
