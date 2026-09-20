@@ -58,9 +58,15 @@ More Laravel packages: [Laractions](https://github.com/edulazaro/laractions), [L
 **Infrastructure:** Docker, queues, object storage, Cloudflare, CI/CD, Meilisearch
 **AI:** agentic systems, tool calling, RAG, hybrid search, embeddings, document intelligence and MCP
 
-## Writing and community
+## Writing, learning and community
 
 I have published more than 1,000 technical tutorials through [Neoguias](https://www.neoguias.com), covering programming, databases, web engineering and systems.
+
+I also created and maintain:
+
+* **[Tutorial Markdown](https://tutorialmarkdown.com):** A complete Spanish-language guide to Markdown, from basic syntax to applications, editors and advanced use cases.
+* **[Tutorial MySQL](https://tutorialmysql.org):** A comprehensive MySQL reference in Spanish, from the first SQL queries to advanced database administration, with an in-browser playground and AI assistance.
+* **[The ARC Methodology](https://thearcmethodology.com):** Align, Realize, Consolidate. A software development methodology for building coherent systems in the AI era, documented through a complete online book and practical resources.
 
 I also maintain [Laravel Spain](https://laravelspain.com) and [Laravel Andorra](https://laravelandorra.com), communities focused on knowledge sharing, open source and professional connections.
 
