@@ -76,6 +76,14 @@ Currently in development.
 
 Other gaming projects: [Stack the Rent](https://edulazaro.itch.io/stack-the-rent), [Carmageddon Tuner](https://github.com/edulazaro/carmageddon-tuner) and [Carmageddon Extractor](https://github.com/edulazaro/carmageddon-extractor).
 
+## Career and employment
+
+Products designed to make job searching more organized, informed and manageable.
+
+### [Job Hunt Manager](https://jobhuntmanager.com)
+
+A free productivity tool for organizing job applications, interviews, assessments, assignments, contacts and documents in one place. Originally built before the generative AI wave, it was later extended with JOBTAR, an AI assistant for CV analysis and tailored cover letters.
+
 ## Selected open source
 
 | Project                                                     | What it solves                                                                                                                                                                               |
