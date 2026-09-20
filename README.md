@@ -38,6 +38,29 @@ It provides the consumer-facing side of the ecosystem, helping affected people f
 
 [Visit product](https://claimeet.com) · [Technical case study](https://edulazaro.com/portfolio/claimeet)
 
+## Gaming and interactive products
+
+Products that combine gaming, community data, interactive storytelling and creative technology.
+
+### DuracionDe
+
+A Spanish-language videogame duration platform covering almost 100,000 games and reaching a peak of 500,000 monthly users.
+
+Durations are calculated from community submissions across different play styles. The platform integrates with gaming data sources, verifies player activity and uses an automated trust system to separate reliable reports from noise.
+
+Online and independently operated since 2020.
+
+[Visit product](https://duracionde.com) · [Technical case study](https://edulazaro.com/portfolio/duracionde)
+
+### RIPTIRE
+
+A vehicular combat game where players rebuild a dead man's car with improvised weapons and parts before sending it back into hostile territory.
+
+The project combines game development, Three.js, interactive storytelling, worldbuilding and experiential web design. Its promotional website is part of the same fictional world rather than a separate conventional landing page.
+
+Currently in development.
+
+[Visit product](https://riptire.com) · [Technical case study](https://edulazaro.com/portfolio/riptire)
 
 ## Selected open source
 
