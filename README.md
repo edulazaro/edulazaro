@@ -37,11 +37,9 @@ Built end to end as a solo founder, including product, backend, frontend, infras
 | [Larameter](https://github.com/edulazaro/larameter)         | Credit metering, plans, quotas, top-ups and usage limits for Laravel applications.                                                                                                           |
 | [Larameili](https://github.com/edulazaro/larameili)         | Eloquent-style models for Meilisearch when the search index is the primary data store.                                                                                                       |
 
-**Application architecture:** [Laractions](https://github.com/edulazaro/laractions), [Laracontext](https://github.com/edulazaro/laracontext), [Larakeep](https://github.com/edulazaro/larakeep), [Laraterms](https://github.com/edulazaro/laraterms) and [Larasources](https://github.com/edulazaro/larasources).
-
-**Developer tools and integrations:** [Laralang](https://github.com/edulazaro/laralang), [Larascraper](https://github.com/edulazaro/larascraper), [Laracaptcha](https://github.com/edulazaro/laracaptcha), [LaraIndexNow](https://github.com/edulazaro/laraindexnow), [Laracards](https://github.com/edulazaro/laracards), [Lararand](https://github.com/edulazaro/lararand), [LaraClaude](https://github.com/edulazaro/laraclaude) and [Larawards](https://github.com/edulazaro/larawards).
-
-**Laravel and Livewire UI:** [Wiretoast](https://github.com/edulazaro/wiretoast), [Wiremodal](https://github.com/edulazaro/wiremodal), [Wirebug](https://github.com/edulazaro/wirebug), [Wirecookies](https://github.com/edulazaro/wirecookies), [Wire Sortable](https://github.com/edulazaro/wire-sortable) and [Wireschedule](https://github.com/edulazaro/wireschedule).
+- **Application architecture:** [Laractions](https://github.com/edulazaro/laractions), [Laracontext](https://github.com/edulazaro/laracontext), [Larakeep](https://github.com/edulazaro/larakeep), [Laraterms](https://github.com/edulazaro/laraterms) and [Larasources](https://github.com/edulazaro/larasources).
+- **Developer tools and integrations:** [Laralang](https://github.com/edulazaro/laralang), [Larascraper](https://github.com/edulazaro/larascraper), [Laracaptcha](https://github.com/edulazaro/laracaptcha), [LaraIndexNow](https://github.com/edulazaro/laraindexnow), [Laracards](https://github.com/edulazaro/laracards), [Lararand](https://github.com/edulazaro/lararand), [LaraClaude](https://github.com/edulazaro/laraclaude) and [Larawards](https://github.com/edulazaro/larawards).
+- **Laravel and Livewire UI:** [Wiretoast](https://github.com/edulazaro/wiretoast), [Wiremodal](https://github.com/edulazaro/wiremodal), [Wirebug](https://github.com/edulazaro/wirebug), [Wirecookies](https://github.com/edulazaro/wirecookies), [Wire Sortable](https://github.com/edulazaro/wire-sortable) and [Wireschedule](https://github.com/edulazaro/wireschedule).
 
 ## Selected product engineering
 
