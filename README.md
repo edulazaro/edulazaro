@@ -64,9 +64,9 @@ I have published more than 1,000 technical tutorials through [Neoguias](https://
 
 I also created and maintain:
 
-* **[Tutorial Markdown](https://tutorialmarkdown.com):** A complete Spanish-language guide to Markdown, from basic syntax to applications, editors and advanced use cases.
-* **[Tutorial MySQL](https://tutorialmysql.org):** A comprehensive MySQL reference in Spanish, from the first SQL queries to advanced database administration, with an in-browser playground and AI assistance.
-* **[The ARC Methodology](https://thearcmethodology.com):** Align, Realize, Consolidate. A software development methodology for building coherent systems in the AI era, documented through a complete online book and practical resources.
+* [Tutorial Markdown](https://tutorialmarkdown.com): A complete Spanish-language guide to Markdown, from basic syntax to applications, editors and advanced use cases.
+* [Tutorial MySQL](https://tutorialmysql.org): A comprehensive MySQL reference in Spanish, from the first SQL queries to advanced database administration, with an in-browser playground and AI assistance.
+* [The ARC Methodology](https://thearcmethodology.com): Align, Realize, Consolidate. A software development methodology for building coherent systems in the AI era, documented through a complete online book and practical resources.
 
 I also maintain [Laravel Spain](https://laravelspain.com) and [Laravel Andorra](https://laravelandorra.com), communities focused on knowledge sharing, open source and professional connections.
 
