@@ -84,7 +84,7 @@ Products designed to make job searching more organized, informed and manageable.
 
 A free productivity tool for organizing job applications, interviews, assessments, assignments, contacts and documents in one place. Originally built before the generative AI wave, it was later extended with JOBTAR, an AI assistant for CV analysis and tailored cover letters.
 
-[Visit product]([https://riptire.com](https://jobhuntmanager.com))
+[Visit product](https://jobhuntmanager.com)
 
 ## Selected open source
 
