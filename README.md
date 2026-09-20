@@ -37,7 +37,9 @@ Built end to end as a solo founder, including product, backend, frontend, infras
 | [Larameter](https://github.com/edulazaro/larameter)         | Credit metering, plans, quotas, top-ups and usage limits for Laravel applications.                                                                                                           |
 | [Larameili](https://github.com/edulazaro/larameili)         | Eloquent-style models for Meilisearch when the search index is the primary data store.                                                                                                       |
 
-More Laravel packages: [Laractions](https://github.com/edulazaro/laractions), [Laralang](https://github.com/edulazaro/laralang), [Laraterms](https://github.com/edulazaro/laraterms), [Larasources](https://github.com/edulazaro/larasources), [Lararand](https://github.com/edulazaro/lararand) and [LaraClaude](https://github.com/edulazaro/laraclaude).
+More Laravel infrastructure: [Laractions](https://github.com/edulazaro/laractions), [Laralang](https://github.com/edulazaro/laralang), [Laraterms](https://github.com/edulazaro/laraterms), [Larasources](https://github.com/edulazaro/larasources), [Lararand](https://github.com/edulazaro/lararand) and [LaraClaude](https://github.com/edulazaro/laraclaude).
+
+Laravel and Livewire UI: [Wiretoast](https://github.com/edulazaro/wiretoast), [Wiremodal](https://github.com/edulazaro/wiremodal), [Wirebug](https://github.com/edulazaro/wirebug), [Wirecookies](https://github.com/edulazaro/wirecookies), [Wire Sortable](https://github.com/edulazaro/wire-sortable) and [Wireschedule](https://github.com/edulazaro/wireschedule).
 
 ## Selected product engineering
 
