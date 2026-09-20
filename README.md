@@ -10,19 +10,34 @@ Based in Andorra and working remotely across Europe.
 
 [Portfolio](https://edulazaro.com/portfolio) · [LinkedIn](https://www.linkedin.com/in/edulazaro/) · [X](https://x.com/neeonez) · [Contact](https://edulazaro.com/#contact)
 
-## Current focus
+## Legaltech products
 
-### [Crowd Legal](https://crowd.legal)
+I am building three connected legaltech products as a solo founder, covering product, backend, frontend, AI infrastructure and operations.
+
+### Crowd Legal
 
 An operating system for Spanish law firms managing individual, mass and collective litigation.
 
-It brings together matters, court proceedings, arbitration, out-of-court settlements, deadlines, billing, electronic signatures, document workflows and white-label client portals.
+It brings together matters, court proceedings, arbitration, out-of-court settlements, deadlines, billing, electronic signatures, document workflows and white-label client portals. The same platform supports twenty affected clients or several thousand without turning each new claimant into additional manual work.
 
-At its core is **Inis**, an agentic legal assistant with more than 80 callable tools, hybrid retrieval across Spanish and European legal sources, document intelligence, persistent memory and MCP integrations.
+[Visit product](https://crowd.legal) · [Technical case study](https://edulazaro.com/portfolio/crowdlegal)
 
-Built end to end as a solo founder, including product, backend, frontend, infrastructure and sales.
+### Inis Legal
 
-[View case study](https://edulazaro.com/portfolio/crowdlegal) · [Explore Inis](https://edulazaro.com/portfolio/inislegal)
+An agentic legal assistant grounded in Spanish and European legislation and case law.
+
+Inis combines more than 80 callable legal tools with hybrid retrieval, document intelligence, persistent memory and MCP integrations. It can research legislation, work with legal documents, calculate deadlines, generate documents and act directly on matters while keeping its answers traceable to their sources.
+
+[Visit product](https://inis.legal) · [Technical case study](https://edulazaro.com/portfolio/inislegal)
+
+### Claimeet
+
+A public platform that helps people organize collective claims when companies act unfairly, from sudden closures and unpaid refunds to fraud, abusive subscriptions and contractual breaches.
+
+It provides the consumer-facing side of the ecosystem, helping affected people find one another, gather information and coordinate action around a shared claim.
+
+[Visit product](https://claimeet.com) · [Technical case study](https://edulazaro.com/portfolio/claimeet)
+
 
 ## Selected open source
 
