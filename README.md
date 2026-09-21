@@ -48,6 +48,21 @@ An AI assistant for tarot, astrology and personal reflection, already used by re
 
 [Visit product](https://tarotian.com)
 
+## AI infrastructure
+
+Production-ready infrastructure for integrating AI into real applications with control, traceability and predictable behavior.
+
+### ToxicFilter
+
+An AI-assisted content moderation API for text, images, signups, links, prompts and conversations. It combines fast deterministic checks with model-based analysis to detect spam, harassment, hate speech, scams, unsafe content, personal data, prompt injection and filter evasion.
+
+Instead of reducing moderation to a boolean result, ToxicFilter returns `allow`, `review` or `block` decisions with category-level signals, configurable and versioned policies, contextual repetition detection, a human review queue and signed webhooks.
+
+**Open-source SDKs:** [PHP](https://github.com/toxicfilter/php-sdk), [Python](https://github.com/toxicfilter/python-sdk) and [JavaScript](https://github.com/toxicfilter/js-sdk).
+
+[Visit product](https://toxicfilter.com) · [API documentation](https://toxicfilter.com/docs) · [GitHub organization](https://github.com/toxicfilter)
+
+
 ## Gaming and interactive products
 
 Products that combine gaming, community data, interactive storytelling and creative technology.
