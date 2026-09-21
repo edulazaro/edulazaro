@@ -4,7 +4,9 @@
 
 I design and build software for real businesses and my own products, from SaaS and legaltech to real-estate platforms and scientific computing.
 
-I also turn recurring production problems into reusable infrastructure. Most of my open-source work comes from problems first solved inside real products: authorization, usage metering, document processing, AI agents, privacy, search and multi-tenant architecture.
+I turn recurring production problems into reusable infrastructure. Most of my open-source work comes from problems first solved inside real products: authorization, usage metering, document processing, AI agents, privacy, search and multi-tenant architecture.
+
+Over time, this has become a reusable engineering stack that lets me move quickly across products and domains without repeatedly solving the same problems from scratch.
 
 Based in Andorra and working remotely across Europe.
 
