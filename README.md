@@ -91,7 +91,7 @@ Currently in development.
 
 ### OTHER
 
-Other gaming projects: [Stack the Rent](https://edulazaro.itch.io/stack-the-rent), [Carmageddon Tuner](https://github.com/edulazaro/carmageddon-tuner) and [Carmageddon Extractor](https://github.com/edulazaro/carmageddon-extractor).
+Other gaming projects: [System Breach](https://edulazaro.itch.io/system-breach), [Stack the Rent](https://edulazaro.itch.io/stack-the-rent), [Border Run](https://edulazaro.itch.io/border-run), [Hot Property](https://edulazaro.itch.io/hot-property), [Carmageddon Tuner](https://github.com/edulazaro/carmageddon-tuner) and [Carmageddon Extractor](https://github.com/edulazaro/carmageddon-extractor).
 
 ## Career and employment
 
