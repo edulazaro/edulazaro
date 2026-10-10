@@ -143,7 +143,7 @@ A free productivity tool for organizing job applications, interviews, assessment
 
 ## Writing, learning and community
 
-I have published more than 1,000 technical tutorials through [Neoguias](https://www.neoguias.com), covering programming, databases, web engineering and systems.
+I have published more than 1.000 technical tutorials through [Neoguias](https://www.neoguias.com), covering programming, databases, web engineering and systems.
 
 I also created and maintain:
 
